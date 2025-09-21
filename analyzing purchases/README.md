@@ -4,7 +4,9 @@
 
 Папка организована следующим образом:
 
-<img width="302" height="267" alt="Снимок экрана 2025-09-21 в 18 53 34" src="https://github.com/user-attachments/assets/ea531c86-5ccd-4529-b4b6-02a0ed00f067" />
+
+<img width="268" height="280" alt="Снимок экрана 2025-09-21 в 18 55 18" src="https://github.com/user-attachments/assets/89f5afb6-65fc-4f73-b001-36243ea3d97a" />
+
 
 
 ### Задачи проекта
