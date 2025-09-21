@@ -3,19 +3,8 @@
 Проект представляет собой комплексный анализ данных о покупках пользователей, совершенных в разные дни.
 
 Папка организована следующим образом:
-└── data
-   ├── 2025-09-01
-   │  ├── FirstName_LastName1
-   │  │   └── data.csv
-   │  ├── FirstName_LastName2
-   │  │   └── data.csv
-   │  └── FirstName_LastName3
-   │      └── data.csv
-   └── 2025-09-05
-      ├── FirstName_LastName1
-      │   └── data.csv
-      └── FirstName_LastName5
-          └── data.csv
+<img width="302" height="267" alt="Снимок экрана 2025-09-21 в 18 53 34" src="https://github.com/user-attachments/assets/ea531c86-5ccd-4529-b4b6-02a0ed00f067" />
+
 
 ### Задачи проекта
 1) Сбор и объединение данных из иерархической структуры папок в единый DataFrame
